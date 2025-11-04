@@ -1,0 +1,5 @@
+{
+  "name": "Super Notification Manager",
+  "description": "Saves and organizes all notifications from different apps, allowing users to review, search, and act on important alerts later, preventing missed bills, deadlines, or messages.",
+  "requestFramePermissions": []
+}
